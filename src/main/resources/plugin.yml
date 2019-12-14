@@ -1,0 +1,8 @@
+name: SamplePlugin
+main: com.iamtheyammer.sampleplugin.SamplePlugin
+version: "1.0"
+
+commands:
+  yammer:
+    description: Gives the yammer kit.
+    usage: /yammer
